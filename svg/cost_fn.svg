@@ -14,7 +14,7 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="cost_fn.svg">
   <defs
      id="defs2">
@@ -580,16 +580,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="561.43943"
-     inkscape:cy="398.54122"
+     inkscape:zoom="1.4142137"
+     inkscape:cx="656.68898"
+     inkscape:cy="403.85295"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1680"
-     inkscape:window-height="987"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1024"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -1024,7 +1024,7 @@
        inkscape:transform-center-x="-3.8724566"
        inkscape:transform-center-y="-8.9535292" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#f6f600;fill-opacity:0.50232562;stroke:#000000;stroke-width:0.38497823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#f600ed;fill-opacity:0.50232559;stroke:#000000;stroke-width:0.38497823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4506-3-32-9-38-8"
        width="9.6150217"
        height="44.615021"
@@ -1062,14 +1062,14 @@
            sodipodi:role="line">∆</tspan></text>
     </g>
     <rect
-       style="opacity:1;vector-effect:none;fill:#e6bf57;fill-opacity:0.50232562;stroke:#000000;stroke-width:0.38497823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ff8d00;fill-opacity:0.50232559;stroke:#000000;stroke-width:0.38497823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4506-3-32-7-5"
        width="9.6150217"
        height="44.615021"
        x="234.10806"
        y="128.39673" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#e6bf57;fill-opacity:0.50232562;stroke:#000000;stroke-width:0.38497823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:0.28504673;stroke:#000000;stroke-width:0.38497823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4506-3-32-9-38-6"
        width="9.6150217"
        height="44.615021"
@@ -1139,7 +1139,7 @@
        inkscape:transform-center-x="-3.8724566"
        inkscape:transform-center-y="-8.9535292" />
     <rect
-       style="opacity:1;vector-effect:none;fill:#f6f600;fill-opacity:0.50232562;stroke:#000000;stroke-width:0.38497823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#0500ff;fill-opacity:0.70093459;stroke:#000000;stroke-width:0.38497823;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4506-3-32-9-38-8-9"
        width="9.6150217"
        height="44.615021"
@@ -1148,16 +1148,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.48246336px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15515396"
-       x="237.11711"
-       y="149.63583"
+       x="238.14609"
+       y="149.77615"
        id="text8840-8-86-0-1-0"><tspan
          sodipodi:role="line"
          id="tspan8838-8-1-4-7-9"
-         x="237.11711"
-         y="149.63583"
+         x="238.14609"
+         y="149.77615"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.15515396">δ<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';baseline-shift:super;stroke-width:0.15515396"
-   id="tspan5286-4-8-2-6">L</tspan></tspan></text>
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan1210">l</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:1.65497589px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15515396"
@@ -1170,8 +1170,8 @@
          y="225.54738"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.15515396"
          id="tspan7594-8-1-8">b<tspan
-   style="font-size:64.99999762%;baseline-shift:super"
-   id="tspan1617">L</tspan> @ t</tspan></text>
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1212">l</tspan> @ t</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:1.65497601px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15515396"
@@ -1184,7 +1184,7 @@
          y="255.49931"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.15515396"
          id="tspan7594-8-1-8-4">b<tspan
-   style="font-size:2.2930553px;baseline-shift:super;stroke-width:0.15515396"
-   id="tspan1617-9">L</tspan> @ t+1</tspan></text>
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1214">l</tspan> @ t+1</tspan></text>
   </g>
 </svg>
