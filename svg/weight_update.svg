@@ -168,15 +168,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="564.86978"
-     inkscape:cy="301.74074"
+     inkscape:zoom="2.8"
+     inkscape:cx="610.72358"
+     inkscape:cy="338.15875"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1024"
-     inkscape:window-x="1920"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -215,9 +215,9 @@
          y="196.72202"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.06871939px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';fill:#010000;fill-opacity:1;stroke-width:0.15515396">δ<tspan
    style="font-size:64.99999762%;baseline-shift:super"
-   id="tspan16168">L</tspan>·(a<tspan
-   style="font-size:64.99999762%;baseline-shift:super"
-   id="tspan15716">L-1</tspan>)<tspan
+   id="tspan1013">l</tspan>·(a<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1015">l-1</tspan>)<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan15714">T</tspan></tspan></text>
     <rect
@@ -238,8 +238,8 @@
          x="151.30975"
          y="229.1183"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.06871939px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.15515396">W<tspan
-   id="tspan16170"
-   style="font-size:64.99999762%;baseline-shift:super">L</tspan> @ t</tspan></text>
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1017">l</tspan> @ t</tspan></text>
     <g
        transform="matrix(0.58640869,0,0,0.58640869,115.58001,180.45013)"
        id="g5802-2-7-9">
@@ -293,8 +293,8 @@
            y="103.03262"
            x="-152.14394"
            sodipodi:role="line">(a<tspan
-   style="font-size:64.99999762%;baseline-shift:super"
-   id="tspan15702">L-1</tspan>)<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1011">l-1</tspan>)<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan15704">T</tspan><tspan
    id="tspan4676-6"
@@ -310,16 +310,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.48246336px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15515396"
-       x="137.79987"
-       y="196.96944"
+       x="138.22508"
+       y="197.15843"
        id="text8840-8-86-0-1-0"><tspan
          sodipodi:role="line"
          id="tspan8838-8-1-4-7-9"
-         x="137.79987"
-         y="196.96944"
+         x="138.22508"
+         y="197.15843"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.15515396">δ<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.61360109px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';baseline-shift:super;stroke-width:0.15515396"
-   id="tspan5286-4-8-2-6">L</tspan></tspan></text>
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan1009">l</tspan></tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ff0000;fill-opacity:0.66822428;stroke:#000000;stroke-width:0.22833884;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4506-7-6"
@@ -400,7 +400,7 @@
          x="192.61479"
          y="228.4926"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.06871939px;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, ';stroke-width:0.15515396">W<tspan
-   id="tspan16170-7"
-   style="font-size:1.34466755px;baseline-shift:super;stroke-width:0.15515396">L</tspan> @ t+1</tspan></text>
+   style="font-size:65%;baseline-shift:super"
+   id="tspan1019">l</tspan> @ t+1</tspan></text>
   </g>
 </svg>
